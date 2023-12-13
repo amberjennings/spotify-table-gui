@@ -1,0 +1,4 @@
+pyyaml
+spotipy
+tabulate
+tk
